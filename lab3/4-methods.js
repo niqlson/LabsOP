@@ -19,6 +19,6 @@ const iface = {
   m3(x, y, z) {
       return [x, y, z];
   }
-}
+};
 
 console.log(methods(iface));
